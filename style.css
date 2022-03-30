@@ -37,11 +37,11 @@ th, td {
 }
 
 td:first-child {
-    color: red;
+    color: rgb(253, 74, 178);
 }
 
 td:last-child {
-    color: blue;
+    color: rgb(56, 101, 248);
 }
 
 td.disabled {
